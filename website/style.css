@@ -1,0 +1,29 @@
+html{
+	background-color:#03326D;
+	color:#EAF7FE;
+	font-size:14pt;
+}
+
+nav{
+	background-color:#0982C3;
+	padding:10px;
+	font-size: 12pt;
+}
+
+h1{
+	text-align:center;
+	width:50%;
+}
+
+p{
+	width:50%;
+	text-indent: .5in;
+}
+
+a{
+	color:#c36c09;
+}
+
+table, th, td {
+  border: 1px solid #EAF7FE;
+}

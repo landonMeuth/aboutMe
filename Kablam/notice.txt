@@ -1,0 +1,3 @@
+This app was built with MIT app inventor as a part of our introductory course at SICTC.
+The Manual for the game is for a slightly newer version of the game which I unfortunatly do not have access to.
+The game Kablam! was based on an atari 2600 game called Kaboom!

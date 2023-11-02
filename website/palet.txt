@@ -1,0 +1,38 @@
+0982C3 header
+03326D background
+EAF7FE text
+
+old thing
+	https://th.bing.com/th/id/OIP.GgOoA81AQSQUO8nFlY1d6AAAAA?pid=ImgDet&rs=1
+	https://www.fourmilab.ch/babbage/aem/
+
+apple 1
+	https://th.bing.com/th/id/R.7aa3fcc726a27cf3d0506f12a0815617?rik=WTjZk%2bG3Lz%2f4QQ&riu=http%3a%2f%2fwww.nydailynews.com%2fresizer%2fsR5mQnT4Ue2fdsqHDoLFL41ZSQI%3d%2f1400x0%2farc-anglerfish-arc2-prod-tronc.s3.amazonaws.com%2fpublic%2fMJCGH65Q6RPZXHUMMDYUUAQBUU.jpg&ehk=vvC%2fbwE%2bnjqiqVrwIQlpgPodAmNdxvSfBt1BIArks28%3d&risl=&pid=ImgRaw&r=0
+	https://www.scullinsteel.com/apple1/
+apple ][
+	https://th.bing.com/th/id/R.3e5b48a414d552a8919288b46ac4dcf7?rik=2U3lYaQDwSK53A&riu=http%3a%2f%2fwww.cs.columbia.edu%2f%7esedwards%2fapple2fpga%2fApple-II.jpg&ehk=k17CPRAa1STqV3Vbj89J2bWnQD6MxcqV7zdz5sNmiJY%3d&risl=&pid=ImgRaw&r=0
+	https://www.scullinsteel.com/apple2/
+trs80
+	https://th.bing.com/th/id/OIP.0yQoQ1E5SYtfp28FBGUTmwHaFj?pid=ImgDet&rs=1
+	http://trsjs.48k.ca/
+pet
+	https://1.bp.blogspot.com/-KfQ8kxGraXE/XvksDy2ncNI/AAAAAAAAySA/S7Y4FXQ4mkcxGAE79eRYXFKIsmoTszQFACK4BGAsYHg/s4150/DSCN1435.JPG
+	https://www.masswerk.at/pet/
+vic20
+	https://th.bing.com/th/id/R.039d0db9bd0951beee1311e8f9603de4?rik=Ax4fQbVq%2fZBaow&riu=http%3a%2f%2fimg.tradera.net%2fimages%2f262%2f361847262_db724f77-bf3c-48c7-9834-7e64e1165357.jpg&ehk=6%2fBnaGT2z8xGuKHyBzPtIWFmbDZiLKSVotpP0m6RSws%3d&risl=&pid=ImgRaw&r=0
+	https://www.mdawson.net/vic20chrome/vic20.php
+ibm pc
+	https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https://geeksided.com/wp-content/uploads/getty-images/2016/08/90738220-ibm-5150-personal-computer-1981.jpg
+	https://phix.itch.io/virtualxt
+mac
+	https://technabob.com/blog/wp-content/uploads/2014/01/original_macintosh.jpg
+	https://infinitemac.org/?ref=upstract.com
+windows
+	https://th.bing.com/th/id/R.c0b0b522b059823bd6cc56e08d4fea8b?rik=XImpem5z0GSqmg&riu=http%3a%2f%2fhome.bt.com%2fimages%2fWindows1-box-136394481089202601&ehk=bB70BDVbrcRPu0dJRNN4SCFWHK%2f%2bFzWroQXpL0V7JkM%3d&risl=&pid=ImgRaw&r=0
+	https://archive.org/details/windows-1-0
+amiga
+	https://www.synthtopia.com/wp-content/uploads/2020/02/commodore-amiga-500-1200x932.jpg
+	https://www.taws.ch/WB.html
+windows 95
+	https://th.bing.com/th/id/R.6971fb329466b2f48099e72138208b01?rik=aW%2bYrvwSfedFQg&riu=http%3a%2f%2fhome.bt.com%2fimages%2fwindows-95-box-142191542205002601&ehk=X11zXpD1%2fIdect8e5gjytDDuQsmoFLpm%2fuDh9CKrNoU%3d&risl=&pid=ImgRaw&r=0
+	https://archive.org/details/win95_in_dosbox
