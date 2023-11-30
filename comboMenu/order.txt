@@ -1,0 +1,32 @@
+
+order 1
+Sandwich chicken $5.25
+Fry small $1.00
+Drink large $2.00
+50 ketchup packets
+Cost: $20.75
+Tax:  $22.20
+
+order 2
+Not Ordered
+Not Ordered
+Not Ordered
+0 ketchup packets
+Cost: $20.75
+Tax:  $22.20
+
+order 3
+Not Ordered
+Not Ordered
+Not Ordered
+9 ketchup packets
+Cost: $23.00
+Tax:  $24.61
+
+order 4
+Not Ordered
+Fry large $2.25
+Drink large $2.00
+10000 ketchup packets
+Cost: $2527.25
+Tax:  $2704.15
